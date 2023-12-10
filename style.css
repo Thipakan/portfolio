@@ -1,3 +1,41 @@
+.nav_bar{
+    margin-left: 80%;
+    margin-top: -35px;
+}
+
+.contenair_links
+    {
+        /*margin-left: -400px;*/
+        margin-right: 100px;
+    }
+
+
+#Presentation{
+        background-color: white;
+        flex-direction: row ;
+        justify-content: space-between;
+        align-items: center;
+        /*margin-right: 20px;*/
+        gap: 10%;
+        /*margin-left: -370px;*/
+        margin-right: 100px;
+        margin-bottom: 20px;
+        margin-top: 20%;
+        /*height: 300px;*/
+    }
+
+.link_nav{
+   /* margin-bottom: 80%;*/
+    }
+
+.link_nav:hover
+    {
+    border-top: 2px solid white;
+    border-bottom: 2px solid #0065FC;
+    color:#0065FC;
+    }
+
+
 
 .main-nav {
     display: flex;
